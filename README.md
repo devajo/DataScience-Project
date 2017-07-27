@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title></title>
-</head>
 <body>
 <h1>DataScience-Project</h1>
 <p> A repository of diffrent data science project I have been working on.<br>
